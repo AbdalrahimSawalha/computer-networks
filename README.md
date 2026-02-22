@@ -15,10 +15,10 @@ The projects demonstrate network configuration, routing, addressing, and infrast
 ## 2. Projects 📁
 
 Multi-Network DHCP DNS Routing Simulation  
-Location: multi-network-dhcp-dns-routing-simulation  
+    Location: multi-network-dhcp-dns-routing-simulation  
 
 Static Routing and Subnetting Simulation  
-Location: static-routing-and-subnetting-simulation  
+    Location: static-routing-and-subnetting-simulation  
 
 ---
 
